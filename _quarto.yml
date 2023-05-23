@@ -10,7 +10,7 @@ format:
   html:
     theme: solar
     css: styles.css
-    linkcolor: #839496
+    linkcolor: "#839496"
     email-obfuscation: javascript
 execute:
   freeze: auto
