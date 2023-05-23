@@ -1,0 +1,12 @@
+project:
+  type: website
+website:
+  title: "Jonas Neubert"
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: false
+execute:
+  freeze: auto
+  
