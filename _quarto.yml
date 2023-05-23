@@ -2,11 +2,16 @@ project:
   type: website
 website:
   title: "Jonas Neubert"
+  description: "Personal homepage for Jonas Neubert"
+  repo-url: https://github.com/NeubertJonas/neubert.eu/
+  favicon: favicon.png
+  site-url: https://neubert.eu
 format:
   html:
     theme: solar
     css: styles.css
-    toc: false
+    linkcolor: #839496
+    email-obfuscation: javascript
 execute:
   freeze: auto
   

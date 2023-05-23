@@ -1,31 +1,26 @@
 ---
 title: "Jonas Neubert"
 about:
-  template: solana
+  template: trestles
   image: profile_bw.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/jonasjneubert/
     - icon: github
       text: Github
       href: https://github.com/NeubertJonas
 ---
 
-Jonas Neubert is a research intern at the department of neuropsychology and psychopharmacology at Maastricht University.
+Jonas Neubert is a research intern at [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department of the Faculty of Psychology and Neuroscience at Maastricht University.
 
 ## Education
 
-**Maastricht University, Netherlands** | Research Master in Cognitive and Clinical Neuroscience
-M.Sc. Drug Development and Neurohealth | Sept 2021 - August 2023
+**Maastricht University, Netherlands** \| Research Master in Cognitive and Clinical Neuroscience M.Sc. Drug Development and Neurohealth \| Sept 2021 - August 2023
 
-**Maastricht University, Netherlands** | University College Maastricht
-B.A Liberal Arts and Sciences | Sept 2016 - August 2021
+**Maastricht University, Netherlands** \| University College Maastricht B.A Liberal Arts and Sciences \| Sept 2016 - August 2021
 
 ## Experience
 
-Participatory Advisory Council | MIND Foundation | 2021 - 2022
+Participatory Advisory Council \| MIND Foundation \| 2021 - 2022
 
-Coordinator uniMIND Maastricht | MIND Foundation | 2020 - 2022
+Coordinator uniMIND Maastricht \| MIND Foundation \| 2020 - 2022
 
-Scientific Research Assistant | Institute of Sociology at the Nuremberg Campus of Technology, Friedrich-Alexander Universität Erlangen-Nürnberg
+Scientific Research Assistant \| Institute of Sociology at the Nuremberg Campus of Technology, Friedrich-Alexander Universität Erlangen-Nürnberg
