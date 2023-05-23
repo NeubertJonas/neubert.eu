@@ -5,7 +5,7 @@ about:
   image: profile_bw.jpg
   links:
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/jonasjneubert/
     - icon: github
       text: Github
@@ -27,3 +27,5 @@ B.A Liberal Arts and Sciences | Sept 2016 - August 2021
 Participatory Advisory Council | MIND Foundation | 2021 - 2022
 
 Coordinator uniMIND Maastricht | MIND Foundation | 2020 - 2022
+
+Scientific Research Assistant | Institute of Sociology at the Nuremberg Campus of Technology, Friedrich-Alexander Universität Erlangen-Nürnberg
