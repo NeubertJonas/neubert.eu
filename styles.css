@@ -1,1 +1,9 @@
 /* CSS styles */
+
+a, a:visited, a:link {
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: underline;
+} 
