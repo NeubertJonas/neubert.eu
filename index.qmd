@@ -2,6 +2,7 @@
 title: "Jonas Neubert"
 about:
   template: trestles
+  id: about-me
   image: profile_small.jpg
   links:
     - icon: github
@@ -14,6 +15,8 @@ about:
       text: PGP Key
       href: https://neubert.eu/pgp.txt
 ---
+
+:::{#about-me}
 
 Jonas Neubert is currently a research intern at [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department of the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
 
@@ -42,3 +45,6 @@ MIND Foundation \| 2020 -- 2022
 **Scientific Research Assistant**
 
 Institute of Sociology at the Nuremberg Campus of Technology, Friedrich-Alexander Universität Erlangen-Nürnberg \| 2020 -- 2023
+
+:::
+
