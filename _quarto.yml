@@ -1,11 +1,12 @@
 project:
   type: website
+  resources: pgp.txt
 website:
   title: "Jonas Neubert"
-  description: "Personal homepage for Jonas Neubert"
-  repo-url: https://github.com/NeubertJonas/neubert.eu/
+  description: "Jonas Neubert - Personal Website"
   favicon: favicon.png
   site-url: https://neubert.eu
+  page-footer: Proudly created with [Quarto](https://quarto.org).
 format:
   html:
     theme: solar
