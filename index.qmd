@@ -2,11 +2,17 @@
 title: "Jonas Neubert"
 about:
   template: trestles
-  image: profile_bw.jpg
+  image: profile_small.jpg
   links:
     - icon: github
       text: Github
       href: https://github.com/NeubertJonas
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/neubertjonas/
+    - icon: shield-lock-fill
+      text: PGP Key
+      href: https://neubert.eu/pgp.txt
 ---
 
 Jonas Neubert is a research intern at [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department of the Faculty of Psychology and Neuroscience at Maastricht University.
