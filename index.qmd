@@ -21,7 +21,7 @@ about:
 
 :::{#about-me}
 
-Jonas Neubert is currently a research intern at the [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department of the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
+Hello! I'm Jonas Neubert and I am currently a research intern at the [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department of the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
 
 Get in touch via [jonas@neubert.eu](mailto:jonas@neubert.eu)
 
