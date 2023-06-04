@@ -11,6 +11,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/neubertjonas/
+    - icon: grid-3x3
+      text: Challenge Me
+      href: https://online-go.com/user/view/1325965
     - icon: shield-lock-fill
       text: PGP Key
       href: https://neubert.eu/pgp.txt
@@ -18,17 +21,22 @@ about:
 
 :::{#about-me}
 
-Jonas Neubert is currently a research intern at [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department of the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
+Jonas Neubert is currently a research intern at the [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department of the Faculty of Psychology and Neuroscience (FPN) at Maastricht University.
 
-Get in touch via [jonas\@neubert.eu](mailto:jonas@neubert.eu)
+Get in touch via [jonas@neubert.eu](mailto:jonas@neubert.eu)
 
 ## Education
 
-**[M.Sc. Drug Development and Neurohealth](https://curriculum.maastrichtuniversity.nl/education/master/research-master-cognitive-and-clinical-neuroscience-specialisation-drug-development)** 
+**[MSc in Cognitive and Clinical Neuroscience](https://curriculum.maastrichtuniversity.nl/education/master/research-master-cognitive-and-clinical-neuroscience-specialisation-drug-development)**
+
+*Drug Development and Neurohealth*\
+*(research master specialisation)*
 
 Maastricht University | 09/2021 -- 08/2023
 
-**[B.A. Liberal Arts and Sciences](https://curriculum.maastrichtuniversity.nl/education/bachelor/university-college-maastricht)**
+**[BA in Liberal Arts and Sciences](https://curriculum.maastrichtuniversity.nl/education/bachelor/university-college-maastricht)**
+
+*Social Sciences / Humanites Concentration*
 
 Maastricht University \| 09/2016 -- 08/2021
 
@@ -47,4 +55,3 @@ MIND Foundation \| 2020 -- 2022
 Institute of Sociology at the Nuremberg Campus of Technology, Friedrich-Alexander Universität Erlangen-Nürnberg \| 2020 -- 2023
 
 :::
-

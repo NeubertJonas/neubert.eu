@@ -2,11 +2,10 @@ project:
   type: website
   resources: pgp.txt
 website:
-  title: "Jonas Neubert"
-  description: "Jonas Neubert - Personal Website"
+  description: "Jonas Neubert's personal website."
   favicon: favicon.png
   site-url: https://neubert.eu
-  page-footer: Proudly created with [Quarto](https://quarto.org).
+  page-footer: Proudly created with [Quarto](https://quarto.org) v<?quarto.version?>.
 format:
   html:
     theme: solar
@@ -15,4 +14,5 @@ format:
     email-obfuscation: javascript
 execute:
   freeze: auto
-  
+filters:
+  - quarto-version.lua
