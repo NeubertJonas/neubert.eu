@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.151">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Jonas Neubert">
+<meta name="dcterms.date" content="2023-06-16">
+
+<title>Go Workshop at UCM</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Go Workshop at UCM</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jonas Neubert </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 16, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<div class="callout callout-style-simple callout-note callout-titled" title="Workshop Description">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Workshop Description
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Go is more than just a game. It is a journey of discovery, a way of living, and a source of wisdom. Go is one of the oldest and most sophisticated board games in the world, with a rich history of over 4,000 years. It has been played by thinkers, leaders, artists, and innovators across time and space. Go challenges you to create territory, capture stones, and balance attack and defense on a 19x19 grid. But it also teaches you essential skills such as patience, discipline, open-mindedness, creativity, and intuition. In this workshop, you will learn the basics of Go while exploring the philosophy behind Go. You will see how Go can be a metaphor for life, where each move is a decision that affects your future. You will also experience how Go can be a dialogue of hands, where you communicate with your opponent through your stones. Whether you are new to Go or already familiar with it, this workshop will inspire you to Go with the flow and find joy in playing this ancient board game.</p>
+</div>
+</div>
+</div>
+<p>Thanks for joining the workshop at <a href="https://www.maastrichtuniversity.nl/ucm-anniversary-workshops">UCM’s 20th Anniversary Knowledge Festival</a>. Below, I have collected a few useful resources to get you started if you wish to explore this fascinating game afterwards. You may also download this overview as <a href="./go.pdf">PDF file</a>.</p>
+<p>If you have any more questions, you are more than welcome to send me an email to <script type="text/javascript">
+<!--
+h='&#110;&#x65;&#x75;&#98;&#x65;&#114;&#116;&#46;&#x65;&#x75;';a='&#64;';n='&#106;&#x6f;&#110;&#x61;&#x73;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>jonas at neubert dot eu</noscript></p>
+<section id="reading-materials" class="level2">
+<h2 data-anchor-id="reading-materials">Reading Materials</h2>
+<ul>
+<li><a href="https://www.gobook.eu">A Go Guide by a Beginner (free book, beginner friendly)</a></li>
+<li><a href="https://senseis.xmp.net">Sensei’s Library (a wiki dedicated to Go)</a></li>
+</ul>
+</section>
+<section id="playing-go-online-against-ai-or-other-players" class="level2">
+<h2 data-anchor-id="playing-go-online-against-ai-or-other-players">Playing Go Online (against AI or other players)</h2>
+<ul>
+<li><a href="https://online-go.com">Online Go Server (OGS)</a></li>
+<li>You can find my profile <a href="https://online-go.com/user/view/1325965">here</a>, please feel free to send me a challenge any time</li>
+</ul>
+</section>
+<section id="go-exercises" class="level2">
+<h2 data-anchor-id="go-exercises">Go Exercises</h2>
+<ul>
+<li><a href="https://online-go.com/learn-to-play-go/">For Beginners</a></li>
+<li><a href="https://gomagic.org/go-problems/">Intermediate to Advanced (only partially free)</a></li>
+<li>For more, just search for <em>Go Tsumego</em></li>
+</ul>
+</section>
+<section id="youtube" class="level2">
+<h2 data-anchor-id="youtube">Youtube</h2>
+<ul>
+<li><a href="https://www.youtube.com/@GoMagic">Go Magic (beginner friendly)</a>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL4DLlaT_bvDG5y6WSfXU8cQsTsb4o3YnT">Go Rules &amp; Basics</a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=RRBjN8empIs">Go Review - A video 4,000 years in the making</a></li>
+<li><a href="https://www.youtube.com/@NickSibicky">Nick Sibicky (intermediate lectures)</a></li>
+</ul>
+</section>
+<section id="movies-documentaries" class="level2">
+<h2 data-anchor-id="movies-documentaries">Movies / Documentaries</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=WXuK6gekU1Y">AlphaGo (full movie)</a></li>
+<li><a href="https://www.youtube.com/watch?v=QyfWChDhtu0">The Surrounding Game (trailer)</a></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Proudly created with <a href="https://quarto.org">Quarto</a> v1.4.151.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>© 2023 Jonas Neubert | <a href="https://github.com/NeubertJonas/neubert.eu">Source Code</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
