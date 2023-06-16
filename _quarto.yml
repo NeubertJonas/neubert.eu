@@ -1,6 +1,8 @@
 project:
   type: website
-  resources: pgp.txt
+  resources: 
+    - "pgp.txt"
+    - "go_workshop_UCM.pdf"
 website:
   favicon: favicon.png
   site-url: https://neubert.eu

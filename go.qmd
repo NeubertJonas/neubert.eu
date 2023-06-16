@@ -5,7 +5,7 @@ date: "2023-06-16"
 date-format: long
 format:
   html: default
-  pdf: default
+  # NB: PDF cannot be rendered by GitHub Pages, so needs to be rendered and uploaded manually to be updated
 ---
 
 ::: {.callout-note title="Workshop Description" collapse="true" appearance="simple"}
