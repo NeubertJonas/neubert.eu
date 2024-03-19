@@ -12,7 +12,6 @@ website:
 format:
   html:
     email-obfuscation: javascript
-    minimal: true
     theme: solar
     css: styles.css
     linkcolor: "#839496"
