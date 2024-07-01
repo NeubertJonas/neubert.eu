@@ -24,7 +24,7 @@ about:
 
 :::{#about-me}
 
-Hello! I'm Jonas Neubert, a PhD fellow at the Section for Health Services Research, University of Copenhagen. As part of the [DataSpace project](https://dataspace.ku.dk) I investigate patient mobility within the European Union through the lens of cross-border ePrescriptions. The primary focus is on patients’ lived experiences—examining to what extent health-data infrastructures can lead to meaning changes in patient care.
+Hello! I'm Jonas Neubert, a PhD fellow at the Section for Health Services Research, University of Copenhagen. As part of the [DataSpace project](https://dataspace.ku.dk), I investigate patient mobility within the European Union through the lens of cross-border ePrescriptions. The primary focus is on patients’ lived experiences—examining to what extent health-data infrastructures can lead to meaning changes in patient care.
 
 My previous research at Maastricht University highlighted how romantic couples navigate shared experiences of—psychedelic-induced—altered states of consciousness. The publication will be available soon. In the meantime, you can find the pre-print [here](https://doi.org/10.31234/osf.io/pd6r9).
 
