@@ -1,19 +1,22 @@
 ---
-title: "Jonas Neubert"
+title: "Jonas J. Neubert"
 about:
   template: trestles
   id: about-me
   image: profile_small.jpg
   links:
+    - icon: suitcase-lg-fill
+      text: University Profile
+      href: https://medicalsts.ku.dk/?pure=en%2Fpersons%2Fjonas-joerg-neubert(1b5f6119-39fc-4509-9788-743bfbec7449).html
     - icon: github
       text: Github
       href: https://github.com/NeubertJonas
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/neubertjonas/
-    - icon: grid-3x3
-      text: Challenge Me
-      href: https://online-go.com/user/view/1325965
+    - icon: person-lines-fill
+      text: ORCID iD
+      href: https://orcid.org/0000-0002-2236-867X
     - icon: shield-lock-fill
       text: PGP Key
       href: https://neubert.eu/pgp.txt
@@ -21,9 +24,19 @@ about:
 
 :::{#about-me}
 
-Hello! I'm Jonas Neubert. My research interests are romantic relationships (particularly non-heteronormative ones) and serotonergic psychedelics. I have interviewed couples about their psychedelic experiences ([link to the pre-print](https://doi.org/10.31234/osf.io/pd6r9)) and hope to do more qualitative research in the future. I have recently completed my research internship at the [Neuropsychology and Psychopharmacology](https://www.maastrichtuniversity.nl/research/neuropsychology-and-psychopharmacology) research department at Maastricht University and my master's thesis titled "Relationships and psychedelics: Does a shared LSD experience alter relationship quality and conflict behaviour?"
+Hello! I'm Jonas Neubert, a PhD fellow at the Section for Health Services Research, University of Copenhagen. As part of the [DataSpace project](https://dataspace.ku.dk) I investigate patient mobility within the European Union through the lens of cross-border ePrescriptions. The primary focus is on patients’ lived experiences—examining to what extent health-data infrastructures can lead to meaning changes in patient care.
 
-Get in touch via [email](mailto:jonas@neubert.eu).
+My previous research at Maastricht University highlighted how romantic couples navigate shared experiences of—psychedelic-induced—altered states of consciousness. The publication will be available soon. In the meantime, you can find the pre-print [here](https://doi.org/10.31234/osf.io/pd6r9).
+
+Get in touch via [email](mailto:jonas@neubert.eu) or visit my [ORCID profile](https://orcid.org/0000-0002-2236-867X).
+
+## Work
+
+**[PhD Fellow](https://medicalsts.ku.dk/?pure=en%2Fpersons%2Fjonas-joerg-neubert(1b5f6119-39fc-4509-9788-743bfbec7449).html)**
+
+*[DataSpace](https://dataspace.ku.dk)*
+
+University of Copenhagen, Denmark | 05/2024 -- 04/2027
 
 ## Education
 
@@ -32,7 +45,7 @@ Get in touch via [email](mailto:jonas@neubert.eu).
 *Drug Development and Neurohealth*\
 *(research master specialisation)*
 
-Maastricht University | 09/2021 -- 08/2023
+Maastricht University, Netherlands | 09/2021 -- 08/2023
 
 **[BA in Liberal Arts and Sciences](https://curriculum.maastrichtuniversity.nl/education/bachelor/university-college-maastricht)**
 
@@ -48,7 +61,7 @@ Maastricht University \| 09/2016 -- 08/2021
 
 **Founder and Coordinator of uniMIND Maastricht**
 
-MIND Foundation \| 2020 -- 2022
+MIND Foundation, Berlin, Germany \| 2020 -- 2022
 
 **Scientific Research Assistant**
 
