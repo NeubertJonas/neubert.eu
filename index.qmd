@@ -7,7 +7,7 @@ about:
   links:
     - icon: suitcase-lg-fill
       text: University Profile
-      href: https://medicalsts.ku.dk/?pure=en%2Fpersons%2Fjonas-joerg-neubert(1b5f6119-39fc-4509-9788-743bfbec7449).html
+      href: https://researchprofiles.ku.dk/en/persons/jonas-j%C3%B6rg-neubert-2
     - icon: github
       text: Github
       href: https://github.com/NeubertJonas
