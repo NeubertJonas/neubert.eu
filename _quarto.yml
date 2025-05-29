@@ -8,7 +8,7 @@ website:
   site-url: https://neubert.eu
   page-footer: 
     left: Proudly created with [Quarto](https://quarto.org) v<?quarto.version?>.
-    right: © 2024 Jonas Neubert | [Source Code](https://github.com/NeubertJonas/neubert.eu)
+    right: © 2025 Jonas J. Neubert | [Source Code](https://github.com/NeubertJonas/neubert.eu)
 format:
   html:
     email-obfuscation: javascript
